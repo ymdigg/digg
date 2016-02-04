@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "揭开海外校代招生的秘密"
+title: 揭开海外校代招生的秘密
 subtitle: 北京商报
 ---
 

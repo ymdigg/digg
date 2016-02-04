@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美加校代故事"
+title: 美加校代故事
 subtitle: 美加留学达人
 ---
 

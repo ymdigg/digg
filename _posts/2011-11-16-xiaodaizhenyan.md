@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "校代真言"
+title: 校代真言
 subtitle: 美加留学叶屿生
 ---
 
